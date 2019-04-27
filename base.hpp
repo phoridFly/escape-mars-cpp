@@ -1,5 +1,5 @@
 /******************************************************************
- John Hash
+ John Hash - fancy pants
  Final Project "Mars Escape"
  CS 162 Fall 2018
  Dec 4, 2018
