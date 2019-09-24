@@ -1,2 +1,2 @@
 # escape-mars-cpp
-Final project Oregon State University CS 162
+Final project for Introduction to Computer Science I
