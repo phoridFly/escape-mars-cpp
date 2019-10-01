@@ -1,2 +1,2 @@
 # escape-mars-cpp
-Final project for Introduction to Computer Science I
+Final project for Introduction to Computer Science II
